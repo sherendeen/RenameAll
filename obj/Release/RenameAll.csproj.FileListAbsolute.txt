@@ -1,0 +1,6 @@
+C:\Users\Inivi_000\Documents\Visual Studio\Projects\picturesque\RenameAll\bin\Release\RenameAll.exe.config
+C:\Users\Inivi_000\Documents\Visual Studio\Projects\picturesque\RenameAll\bin\Release\RenameAll.exe
+C:\Users\Inivi_000\Documents\Visual Studio\Projects\picturesque\RenameAll\bin\Release\RenameAll.pdb
+C:\Users\Inivi_000\Documents\Visual Studio\Projects\picturesque\RenameAll\obj\Release\RenameAll.csprojResolveAssemblyReference.cache
+C:\Users\Inivi_000\Documents\Visual Studio\Projects\picturesque\RenameAll\obj\Release\RenameAll.exe
+C:\Users\Inivi_000\Documents\Visual Studio\Projects\picturesque\RenameAll\obj\Release\RenameAll.pdb
