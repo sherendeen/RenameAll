@@ -23,12 +23,15 @@ namespace RenameAll
     class DownloadAppApplication
     {
         /// <summary>
-        /// 
+        /// This application can either be run through the 
+        /// command shell or through the typical double-click and execute fashion.
         /// </summary>
-        /// <param name="args">arg[1] is the path</param>
+        /// <param name="args">arg[0] is the path</param>
         static void Main(string[] args)
         {
-            string path = "", valueToRename = "";
+            string path = "", 
+            valueToRename = "";
+            
             Console.WriteLine("Written by Seth G. R. Herendeen");
             Console.Title = "Rename All";
 
@@ -55,6 +58,8 @@ namespace RenameAll
             }
 
             string[] fileNameArray = Directory.GetFiles(path);
+            
+            // Adds to some file paths. E.G: C:\dir\ vs. C:\dir
             if (!path.EndsWith(@"\"))
             {
                 path += @"\";
